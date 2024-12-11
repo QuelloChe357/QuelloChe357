@@ -1,4 +1,4 @@
-Hi, I'm QuelloChe357, I like programming with Python and HTML.
+Hi, I'm QuelloChe357, I like programming with Python, C, C++, Java and HTML.
 GitHub is very important to me because I can use and contribute to open source projects.
 
 "Software is like sex: it's better when it's free"     -Linus Torvalds, founder of the Linux kernel
